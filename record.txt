@@ -1,0 +1,24 @@
+mukit    5000  TAKA
+nafisa    15000  TAKA
+jawad    2000  TAKA
+aroni    10000  TAKA
+rony    1000  TAKA
+sajal    500  TAKA
+
+
+musfiq    7500  TAKA
+musfiq    500  TAKA
+musfiq    2000  TAKA
+musfiq    7500  TAKA
+musfiq    10000  TAKA
+musfiq    15000  TAKA
+musfiq    25000  TAKA
+musfiq    50000  TAKA
+musfiq    75000  TAKA
+musfiq    150000  TAKA
+musfiq    250000  TAKA
+musfiq    500000  TAKA
+musfiq    1000  TAKA
+musfiq    0  TAKA
+musfiq    7500  TAKA
+musfiq    10000  TAKA
