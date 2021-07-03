@@ -1,0 +1,51 @@
+////0.A collection of lines that connects several devices is called:
+A.peripheral connection wires
+B.bus
+C.Both a and b
+D.Internal wires
+1.A complete microcomputer system consist of
+A.microprocessor
+B.memory
+C.peripheral equipment
+D.all of the above
+2.PC Program Counter is also called
+A.instruction pointer
+B.memory pointer
+C.file pointer
+D.data counter
+View Answer
+3.______ is used to choose between incrementing the PC or performing ALU operations
+A.Conditional codes
+B.Multiplexer
+C.Control unit
+D.None of these
+4.The ultimate goal of a compiler is to:
+A.Reduce the clock cycles for a programming task.
+B.Reduce the size of the object code.
+C.Be versatile.
+D.Be able to detect even the smallest of errors
+5.SPEC stands for:
+A.Standard Performance Evaluation Code.
+B.System Processing Enhancing Code.
+C.System Performance Evaluation Corporation.
+D.Standard Processing Enhancement Corporation.
+6.The instructions like MOV or ADD are called as:
+A.OP-Code
+B.Commands
+C.Operators
+D.None of the above
+7.The decoded instruction is stored in:
+A.PC
+B.MDR
+C.Registers
+D.IR
+8.CPU does not perform the operation:
+A.data transfer
+B.logic operation
+C.arithmetic operation
+D.all of the above
+9.The access time of memory is …………… the time required for performing any single CPU operation:
+A.Shorter than
+B.Negligible than
+C.Same as
+D.Longer than

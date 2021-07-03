@@ -1,0 +1,50 @@
+////0.What year did Facebook debut?
+A.Two thousand three
+B.Two thousand four
+C.Two thousand five
+D.Two thousand six
+1.Which of these terms hides the network part of an IP address?
+A.Gateway Mask
+B.Subnet Mask
+C.Revised Mask
+D.Network Mask
+2.What show is Demi Lovato a judge on?
+A.X Factor
+B.American Idol
+C.Sing Along
+D.U.S Got Talent
+3.With how many countries does the USA share borders?
+A.Two
+B.Three
+C.Four
+D.Five
+4.What is the most popular beverage in the world?
+A.Pepsi
+B.Coca Cola
+C.Water
+D.Mountain Dew
+5.Because it is a color that would absorb more light energy, which of these colors would make your coat warmest in the winter?
+A.Blue
+B.Red
+C.Yellow
+D.Black
+6.In which game might you Go to Jail or "Pass Go"?
+A.Monopoly
+B.Sudoku
+C.Minesweeper
+D.Uno
+7.What part of the chicken is sometimes called the drumstick?
+A.Leg
+B.Breast
+C.Neck
+D.Tail
+8.What was the first name of the first human in space?
+A.Armstrong
+B.Zelda
+C.Yuri
+D.Monoco
+9.Which team won the first soccer World Cup Final in 1930?
+A.Uruguay
+B.France
+C.Brazil
+D.Spain
